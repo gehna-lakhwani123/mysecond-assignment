@@ -1,0 +1,17 @@
+.hero {
+    background-color: #f8f9fa;
+    padding: 50px;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    height: 80vh;
+    
+}
+
+.heading {
+    font-size: 100px;
+}
+
+.paragraph {
+    font-size: 60px;
+}
+
